@@ -1,8 +1,8 @@
 # An-application-demo-of-audio-visual-crowded-scene-classification
 
-* This repo shows an application demo of crowded scene classification from input videos. The demo based on the pre-printed paper at:
+* This repo shows an application demo of crowded scene classification from input videos. The demo based on the pre-printed paper at: https://arxiv.org/pdf/2112.09172.pdf
 
-* To run the demo, please follow the steps below
+* To run the demo, please follow the steps below:
   
     Step 1/ Setup Docker software at your personal machine
    
@@ -14,4 +14,4 @@
 
     Step 6/ Run the docker image with the command line:  sudo docker run -p 5000:5000 -d ntdhcm5494/ammonis-demo
     
-    Step 7/ Open the HTTP link: http://localhost:5000/   and enjoy
+    Step 7/ Open the HTTP link: http://localhost:5000/ and enjoy
